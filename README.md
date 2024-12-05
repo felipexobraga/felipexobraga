@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Felipe, Backend developer from <img src="   https://cdn-icons-png.flaticon.com/512/10599/10599032.png" width="13"/> <b>São Paulo, Brasil</b>
+<p>Welcome to my page! </br> I'm Felipe, Backend developer from <b>São Paulo, Brasil</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
